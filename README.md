@@ -1,0 +1,1 @@
+open setup & run.bat
